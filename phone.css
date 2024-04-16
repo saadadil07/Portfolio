@@ -1,0 +1,16 @@
+.invisible{
+    display: none;
+}
+
+.hamburger{
+    display: block;
+    cursor: pointer;
+}
+
+.nav-height{
+    display: flex;
+    flex-direction: column;
+}
+
+main .second-section{
+} 
